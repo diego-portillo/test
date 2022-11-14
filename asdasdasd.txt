@@ -1,0 +1,7 @@
+PENDIENTES TXCLOUD 
+
+CORREGIR REGISTRO DE MAIL EN LA PANTALLA
+
+http://10.10.1.165/invoice_postview
+
+jira
